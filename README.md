@@ -44,8 +44,7 @@ Follow these steps to get your project up and running:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your GitHub Username]/[Your Project Name].git
-    cd [Your Project Name]
+    git clone https://github.com/Vishwaraj13/RAG_app.git
     ```
 
     OR
